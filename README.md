@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/smpt-cse25/Sampath-about-me/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sampath B S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif">
